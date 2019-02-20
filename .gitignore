@@ -5,3 +5,6 @@
 **/*.pfx
 **/*.pfx.info
 **/*.rdp
+**/.vs
+*.suo
+*.user
